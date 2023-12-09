@@ -111,7 +111,7 @@ button.active {
   color: rgb(24, 23, 23); /* Red for active link on hover or by default */
 }
  .black-link {
-    color: rgb(24, 23, 23);
+    color: #a12914;
    font-weight: 'bold';
      text-decoration: none;
       transition: color 0.3s ease; /* Adding a smooth transition effect */
@@ -126,4 +126,10 @@ button.active {
    text-decoration: none;
   font-weight: bold;
   /* fontWeight: 'bold' */
+}
+.linkstyle{
+  color: #225d72;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: large;
 }

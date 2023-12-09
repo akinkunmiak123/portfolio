@@ -28,15 +28,7 @@ const Card = () => {
           In my free time, I love delving into the vast world of technology—from
           cool gadgets and tech tools to the intricacies of computer processors.
           Additionally, I have a passion for design—check out more of my work on
-          my{' '}
-          <a
-            href="https://github.com/akinkunmiak123/akinkunmiak123"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="profile"
-          >
-            Profile
-          </a>
+          my Portfolio
         </p>
       </>
     )
@@ -61,21 +53,13 @@ const Card = () => {
                   In my free time, I love delving into the vast world of
                   technology—from cool gadgets and tech tools to the intricacies
                   of computer processors. Additionally, I have a passion for
-                  design—check out more of my work on my{' '}
-                  <a
-                    href="https://github.com/akinkunmiak123/akinkunmiak123"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="profile"
-                  >
-                    Profile
-                  </a>
+                  design—check out more of my work on my Portfolio
                 </p>
               </>
             )
           }
         >
-          Akinkunmi
+          <h3 className="linkstyle">Akinkunmi</h3>
         </button>
         <button
           className={activeButton === 'Portfolio' ? 'active' : ''}
@@ -144,7 +128,7 @@ const Card = () => {
             )
           }
         >
-          Portfolio
+          <h3 className="linkstyle">Portfolio</h3>
         </button>
       </div>
       <div className="content">{content}</div>
