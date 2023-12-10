@@ -19,16 +19,37 @@ const Card = () => {
     handleClick(
       <>
         <p>
-          I spend most days crafting engaging web pages that not only boast
-          stunning visuals but also provide users with exceptional experiences.
-          My professional journey is driven by an unwavering commitment to
-          continually refine and elevate my skills.
+          Hello there! I am Akinkunmi, an enthusiastic front-end developer. I
+          excel at the intersection of creativity and technology, where I bring
+          ideas to life, turning them into engaging user experiences. Front-end
+          development is not just a skill for me; it is where I truly shine.
+          Proficient in a range of front-end technologies, including{' '}
+          <span className="inline">HTML5, CSS3, and JavaScript,</span> along
+          with expertise in popular frameworks like{' '}
+          <span className="inline"> React.js,</span> I craft pixel-perfect,
+          responsive web applications that captivate users and ensure seamless
+          interactions. What drives my passion for front-end development is the
+          opportunity to design
+          <span className="inline">
+            {' '}
+            visually stunning and intuitive user interfaces.
+          </span>
         </p>
         <p>
-          In my free time, I love delving into the vast world of technology—from
-          cool gadgets and tech tools to the intricacies of computer processors.
-          Additionally, I have a passion for design—check out more of my work on
-          my Portfolio
+          I am meticulous about the details every button and layout contributes
+          to a flawless user journey. Looking forward, I am excited to channel
+          my front-end development expertise into innovative projects,
+          collaborating with talented professionals. I am captivated by the vast
+          potential of web development and the chance to create solutions that
+          make a lasting impact. If you are as passionate about{' '}
+          <span className="inline"> front-end development</span> as I am, or if
+          the idea of collaborating on web projects intrigues you,{' '}
+          <span className="inline">
+            {' '}
+            let us connect! Feel free to get in touch,
+          </span>
+          and together, let us explore the boundless opportunities of web
+          development.
         </p>
       </>
     )
@@ -43,17 +64,40 @@ const Card = () => {
             handleClick(
               <>
                 <p>
-                  I spend most days crafting engaging web pages that not only
-                  boast stunning visuals but also provide users with exceptional
-                  experiences. My professional journey is driven by an
-                  unwavering commitment to continually refine and elevate my
-                  skills.
+                  Hello there! I am Akinkunmi, an enthusiastic front-end
+                  developer. I excel at the intersection of creativity and
+                  technology, where I bring ideas to life, turning them into
+                  engaging user experiences. Front-end development is not just a
+                  skill for me; it is where I truly shine. Proficient in a range
+                  of front-end technologies, including{' '}
+                  <span className="inline">HTML5, CSS3, and JavaScript,</span>{' '}
+                  along with expertise in popular frameworks like{' '}
+                  <span className="inline"> React.js,</span> I craft
+                  pixel-perfect, responsive web applications that captivate
+                  users and ensure seamless interactions. What drives my passion
+                  for front-end development is the opportunity to design
+                  <span className="inline">
+                    {' '}
+                    visually stunning and intuitive user interfaces.
+                  </span>
                 </p>
                 <p>
-                  In my free time, I love delving into the vast world of
-                  technology—from cool gadgets and tech tools to the intricacies
-                  of computer processors. Additionally, I have a passion for
-                  design—check out more of my work on my Portfolio
+                  I am meticulous about the details every button and layout
+                  contributes to a flawless user journey. Looking forward, I am
+                  excited to channel my front-end development expertise into
+                  innovative projects, collaborating with talented
+                  professionals. I am captivated by the vast potential of web
+                  development and the chance to create solutions that make a
+                  lasting impact. If you are as passionate about{' '}
+                  <span className="inline"> front-end development</span> as I
+                  am, or if the idea of collaborating on web projects intrigues
+                  you,{' '}
+                  <span className="inline">
+                    {' '}
+                    let us connect! Feel free to get in touch,
+                  </span>
+                  and together, let us explore the boundless opportunities of
+                  web development.
                 </p>
               </>
             )

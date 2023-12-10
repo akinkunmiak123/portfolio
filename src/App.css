@@ -133,3 +133,7 @@ button.active {
   font-weight: bold;
   font-size: large;
 }
+.inline{
+  color: #225d72;
+  font-weight: bold;
+}
