@@ -130,7 +130,7 @@ const Card = () => {
                 </div>
                 <div>
                   <a
-                    href="https://akinreact-fundamentals.netlify.app/"
+                    href="https://reactbooklists.netlify.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="black-link"
