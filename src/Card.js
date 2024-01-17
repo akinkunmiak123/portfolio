@@ -119,6 +119,16 @@ const Card = () => {
                 </p>
                 <div>
                   <a
+                    href="https://youtubeakin.netlify.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="black-link"
+                  >
+                    <i class="fa-brands fa-youtube"></i> Youtube Clone
+                  </a>
+                </div>
+                <div>
+                  <a
                     href="https://temp-backroadapp.netlify.app/"
                     target="_blank"
                     rel="noopener noreferrer"
